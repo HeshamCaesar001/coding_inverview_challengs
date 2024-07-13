@@ -9,7 +9,6 @@ To get started with this project, follow these steps:
 - **Clone the repository:**
     ```bash
     git clone <https://github.com/HeshamCaesar001/coding_inverview_challengs.git>
-    cd <your-repo-name>
     ```
 
 ## Running the Challenges
@@ -71,5 +70,3 @@ Here is a list of the available challenges in this repository:
 - weave
 
 Each folder contains the `index.js` and `test.js` files related to the respective challenge.
-
-```
