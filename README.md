@@ -1,6 +1,3 @@
-Sure, here is a `README.md` file for your repository:
-
-```markdown
 # Coding Interview Challenges
 
 This repository contains a collection of the most common coding challenges encountered in technical interviews. Each challenge is organized in its own folder, containing an `index.js` file for the challenge and its solution, and a `test.js` file with Jest tests to verify the solution.
